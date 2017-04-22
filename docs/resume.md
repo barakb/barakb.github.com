@@ -6,11 +6,11 @@ show_downloads: false
 ---
 
 ### In a few words 
-My passions are technology and peoples.
+My passions are technology and people.
 If you ask my current employer what are my strongest points he will say
 
 * Building teams that deliver on time and in good quality.
-* Invest in peoples for the long run, technologically and personally.
+* Invest in people for the long run, technologically and personally.
 
 ##### Looking for a position where I can 
 
@@ -25,7 +25,7 @@ If you ask my current employer what are my strongest points he will say
 * Part of the management team.
 * Create culture of learning and continuous improvement.
 * Teach new technologies.
-* Push peoples out of their comfort zone, teach them to try new things.
+* Push people out of their comfort zone, teach them to try new things.
 * Build with the teams continues delivery system, deliver every week a setup up to the release criteria.
 * Teach and implement ​[Planning and Estimation](https://www.amazon.com/exec/obidos/ASIN/0131479415/mountaingoats-20)​ by the R&D as a tool for the management team.
 
