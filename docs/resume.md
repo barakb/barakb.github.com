@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Barak's Resume
-description: Barak's Resume 
+description: 
 show_downloads: false
 ---
 
