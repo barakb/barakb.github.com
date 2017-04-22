@@ -1,4 +1,3 @@
-
 ---
 layout: cv
 title: Barak's Resume
