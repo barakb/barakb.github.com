@@ -1,4 +1,5 @@
 ---
+layout: cv
 title: Barak's Resume
 description: 
 show_downloads: false
