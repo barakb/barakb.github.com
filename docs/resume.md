@@ -1,6 +1,5 @@
 ---
 title: Barak's Resume
-layout: default
 description: 
 show_downloads: false
 ---
