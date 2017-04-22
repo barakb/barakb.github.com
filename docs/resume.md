@@ -1,4 +1,9 @@
-## Barak's Resume
+---
+title: Barak's Resume
+layout: default
+description: 
+show_downloads: false
+---
 
 ### In a few words 
 My passions are technology and peoples.
