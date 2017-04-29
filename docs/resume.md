@@ -122,5 +122,6 @@ At that time I was doing my MSc at computer science there.
 
 **1992-1995** BSc at Math and Computer Science Ben Gurion university. 
 My [thesis](https://github.com/barakb/The-Compilation-Of-Functional-Unification-Based-Language/raw/master/TheCompilationOfFunctionalUnificationBasedLanguage.pdf)​ is on the fields of natural language generation and compilers optimizations.
+
 **1997-1999** MSc at Computer Science Ben Gurion university.
  
