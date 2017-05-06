@@ -15,7 +15,7 @@ If you ask my current employer what are my strongest points he will say
 ##### Looking for a position where I can 
 
 * Be part of the management team.
-* Building teams that are working with relative new technology like Scala or Go on a new and exciting product.
+* Building teams that are working with relative new technology like Scala, Go or Deep Learning on a new and exciting product.
 
 ### Employment History 
 
