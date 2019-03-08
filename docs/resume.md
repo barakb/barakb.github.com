@@ -12,14 +12,40 @@ If you ask my current employer what are my strongest points he will say
 * Building teams that deliver on time and in good quality.
 * Invest in people for the long run, technologically and personally.
 
+Most of my professional career I have been working on complex distributed system althow I led a full stack team in the past that built a complex SPA.
+I have in depth knowledge in varieties of disiplans from leadership to functional programming.
+
+Since Jun 2016 I have built an R&D department that is constantly learning and improving while not missing a GA buy a single day. 
+As a result all employess that left the company from my team was the ones that I actively push outside.
+
 ##### Looking for a position where I can 
 
 * Be part of the management team.
-* Building teams that are working with relative new technology like Scala, Go or Deep Learning on a new and exciting product.
+* Building teams that are working with exiting and productive technology like Rust, Haskell, Elm or using AI on a new and exciting product.
 
 ### Employment History 
 
-#### Jun 2016 - present 
+#### Jan 2018 -  present 
+**Head of R&D at ​[Gigaspaces](http://www.gigaspaces.com/).** 
+* Part of the management team.
+* Create culture of learning and continuous improvement.
+* Teach new technologies.
+* Push people out of their comfort zone, teach them to try new things.
+* Build with the teams continues delivery system, deliver every week a setup up to the release criteria.
+* Teach and implement ​[Planning and Estimation](https://www.amazon.com/exec/obidos/ASIN/0131479415/mountaingoats-20)​ by the R&D as a tool for the management team.
+
+##### The Key technologies I am using: 
+* [Management](https://www.amazon.com/Peter-F.-Drucker/e/B000AP61TE)
+* [Motivation](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
+* [Docker](https://www.docker.com/)
+* [Java](https://https://www.oracle.com/java/)
+* [Scala](https://www.scala-lang.org/)
+* [Kubernetes](https://kubernetes.io/)
+* [Haskell](https://www.haskell.org/)
+* [Elm](https://elm-lang.org/)
+
+
+#### Jun 2016 - Jan 2018 
 **Director of R&D at ​Gigaspaces [IMC](http://www.gigaspaces.com/imc) Business Unit​.** 
 
 * Part of the management team.
@@ -33,8 +59,10 @@ If you ask my current employer what are my strongest points he will say
 * [Management](https://www.amazon.com/Peter-F.-Drucker/e/B000AP61TE)
 * [Motivation](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
 * [Docker](https://www.docker.com/)
-* [Golang](https://golang.org/)
+* [Java](https://https://www.oracle.com/java/)
 * [Scala](https://www.scala-lang.org/)
+* [Kubernetes](https://kubernetes.io/)
+* [Haskell](https://www.haskell.org/)
 * [Ansible](https://www.ansible.com/)
 
 #### July 2014 - present 
