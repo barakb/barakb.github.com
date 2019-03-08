@@ -15,7 +15,7 @@ If you ask my current employer what are my strongest points he will say
 Most of my professional career I have been working on complex distributed system althow I led a full stack team in the past that built a complex SPA.
 I have in depth knowledge in varieties of disiplans from leadership to functional programming.
 
-Since Jun 2016 I have built an R&D department that is constantly learning and improving while not missing a GA buy a single day. 
+Since Jun 2016 I have built an R&D department that is constantly learning and improving while not missing a single GA by a single day. 
 As a result all employess that left the company from my team was the ones that I actively push outside.
 
 ##### Looking for a position where I can 
