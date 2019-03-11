@@ -1,27 +1,33 @@
 ---
 layout: cv
-title: Barak's Resume
+title: Barak Bar-Orion Resume
 description: 
 show_downloads: false
 ---
 
 ### In a few words 
+
 My passions are technology and people.
 If you ask my current employer what are my strongest points he will say
 
 * Building teams that deliver on time and in good quality.
 * Invest in people for the long run, technologically and personally.
 
-Most of my professional career I have been working on complex distributed system althow I led a full stack team in the past that built a complex SPA.
+Most of my professional career I have been working on complex distributed systems, althow I led a full stack team in the past that built a complex SPA.
+My main technical interest today is strong type functional languges.
 I have in depth knowledge in varieties of disiplans from leadership to functional programming.
 
 Since Jun 2016 I have built an R&D department that is constantly learning and improving while not missing a single GA by a single day. 
-As a result all employess that left the company from my team was the ones that I actively push outside.
+As a result all we have zero turnover in the R&D.
+
+My email is barak.bar@gmail.com
+My phone is 054 5644593
 
 ##### Looking for a position where I can 
 
 * Be part of the management team.
-* Building teams that are working with exiting and productive technology like Rust, Haskell, Elm or using AI on a new and exciting product.
+* Building teams that are working with exciting and productive technology like Rust, Haskell, Elm, or any other functional language to build a new and exciting product that will make impact.
+
 
 ### Employment History 
 
