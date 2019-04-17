@@ -17,17 +17,10 @@ Most of my professional career I have been working on complex distributed system
 My main technical interest today is strong type functional languges.
 I have in depth knowledge in varieties of disiplans from leadership to functional programming.
 
-Since Jun 2016 I have built an R&D department that is constantly learning and improving while not missing a single GA by a single day. 
-As a result all we have zero turnover in the R&D.
 
 My email is **barak.bar@gmail.com**
 
 My phone is **054 5644593**
-
-### Looking for a position where I can 
-
-* Be part of the management team.
-* Building teams that are using exciting and productive technology like Rust, Haskell, Elm, or any other functional language to build a new and exciting product that will make impact.
 
 
 ### Employment History 
@@ -148,11 +141,6 @@ In parallel to my working at Dalet,* Teaching the course ​ []Principles of Pro
 
 At that time I was doing my MSc at computer science there.
  
-#### 1996-1997 
-**Developer at Amdocs** 
-
-* Write some Cobol code.
-
 ## Education 
 
 **1992-1995** BSc at Math and Computer Science Ben Gurion university. 
