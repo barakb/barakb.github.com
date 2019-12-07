@@ -54,7 +54,7 @@ My phone is **054 5644593**
 * [Kubernetes](https://kubernetes.io/)
 * [Nomad](https://www.nomadproject.io/)
 * [Haskell](https://www.haskell.org/)
-* [Nix] (https://nixos.org/nix/)
+* [Nix](https://nixos.org/nix)
 * [Spark](https://spark.apache.org/)
 * [Kafka](https://kafka.apache.org/)
 
