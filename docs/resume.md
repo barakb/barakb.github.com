@@ -28,7 +28,7 @@ I am looking for a position as a VP of R&D at a young startup that develops a ne
 
 My email is **barak.bar@gmail.com**
 
-My phone is **054 5644593**
+
 
 
 ### Employment History 
