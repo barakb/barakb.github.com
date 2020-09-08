@@ -44,6 +44,7 @@ My email is **barak.bar@gmail.com**
 * Push people out of their comfort zone, teach them to try new things.
 * Build with the teams continues delivery system, deliver weekly releases on regular bases.
 * Teach and implement ​[Planning and Estimation](https://www.amazon.com/exec/obidos/ASIN/0131479415/mountaingoats-20)​ by the R&D as a tool for the management team.
+* Implement scrum with weekly sprint (and early access every week)
 
 ##### The Key technologies I am using: 
 * [Management](https://www.amazon.com/Peter-F.-Drucker/e/B000AP61TE)
