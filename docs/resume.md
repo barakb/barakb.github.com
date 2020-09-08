@@ -23,6 +23,7 @@ Modern web frameworks.
 Server side transactional complex systems.
 Big data.
 Databases.
+Clound.
 
 I am looking for a position as a VP of R&D at a young startup that develops a new and breakthrough product that will affect many.
 
@@ -49,6 +50,7 @@ My email is **barak.bar@gmail.com**
 * [Motivation](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
 * [Docker](https://www.docker.com/)
 * [Java](https://https://www.oracle.com/java/)
+* [Kotlin](https://kotlinlang.org/)
 * [Elm](https://elm-lang.org/)
 * [Scala](https://www.scala-lang.org/)
 * [Kubernetes](https://kubernetes.io/)
@@ -79,7 +81,7 @@ My email is **barak.bar@gmail.com**
 * [Haskell](https://www.haskell.org/)
 * [Ansible](https://www.ansible.com/)
 
-#### July 2014 - present 
+#### July 2014 - Jan 2018
 **XAP Team Leader at Gigaspaces.** 
 
 XAP is a distributed in-memory computing software platform written in Java.
@@ -100,22 +102,8 @@ XAP is a distributed in-memory computing software platform written in Java.
 * [Jersey](https://jersey.java.net/)
 * [Maven](https://maven.apache.org/)
 
-#### July 2013 - July 2014 
-**Developer at Dalet.** 
-
-* Design and implement an IDL like distributed framework where servers can be written in Java and C++ and client can be written in Java, C++ and Javascript. The system will replace the old system that I wrote 10 years ago. With this system I am redesigning and rewriting a critical server that is currently having issues on every Dalet site.
-* Implement an ​[XMPP](http://xmpp.org/)​ server in Java and it web client using ​ [Polymer](https://www.polymer-project.org/)​/[WebCompoments](http://webcomponents.org/)
-* Implement ​[Operational transformation​](https://en.wikipedia.org/wiki/Operational_transformation) for journalist story collaboration editing. The server was written in Java and the client in Javascript.
-
-##### The Key technologies I used at that time: 
-* [Antlr](http://www.antlr.org/)
-* [Netty](http://netty.io/)
-* [Guice](https://github.com/google/guice)
-* [Angular](https://angularjs.org/)
-* [React](http://facebook.github.io/react/)
-* [Bootstrap](http://getbootstrap.com/)
  
-#### Jan 2009 - July 2013 
+#### Jan 2009 - July 2014 
 **R&D team leader at Dalet.** 
 
 * Build and lead a team of 7 employees.
@@ -134,6 +122,10 @@ XAP is a distributed in-memory computing software platform written in Java.
 * [Hadoop](https://hadoop.apache.org/)
 * [Apache Solr](http://lucene.apache.org/solr/)
 * [ActionScript](http://www.adobe.com/devnet/actionscript.html)
+* [React](http://facebook.github.io/react/)
+* [Bootstrap](http://getbootstrap.com/)
+* [Antlr](http://www.antlr.org/)
+* [Netty](http://netty.io/)
 
 #### Spring 2010 - Spring 2012 
 **An outside lecturer at Ben Gurion University**
