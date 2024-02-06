@@ -1,162 +1,131 @@
----
-layout: cv
-title: Barak Bar-Orion Resume
-description: 
-show_downloads: false
----
+### In a Few Words
 
-### In a few words 
+My passions are technology and people. I excel in:
 
-My passions are technology and people.
+- Building teams that deliver fast, on time, and with high quality.
+- Investing in people for the long run, focusing on technological effectiveness and management skills.
+- Exploring and learning new technologies and architectures.
 
-* Building teams that deliver on time and in good quality.
-* Invest in people for the long run, technologically and personally.
-* Explore and learn new technologies and architectures.
+Throughout my professional career, I have primarily worked as an engineer on complex distributed systems. Additionally, I have built a complex full-stack SPA. I possess in-depth knowledge in a variety of disciplines, including:
 
-Most of my professional career I have been working as an engineer on complex distributed systems In addition I built a complex full stack SPA.
-I have an in depth knowledge in a variety of disciplines including
+- Leadership management and effectiveness.
+- Complex system architecture.
+- DevOps.
+- Modern web frameworks.
+- Server-side transactional complex systems.
+- Big data.
+- Databases.
+- Cloud.
 
-Leadership and management.
-Complex system architecture.
-DevOps.
-Modern web frameworks.
-Server side transactional complex systems.
-Big data.
-Databases.
-Clound.
+I am seeking a position as a Team Leader or Group Leader at a forward-thinking company that develops new and breakthrough products using a modern technology stack and invests in people for the long run.
 
-I am looking for a position as a VP of R&D at a young startup that develops a new and breakthrough product that will affect many.
+My email is **barak.bar@gmail.com**.
 
-My email is **barak.bar@gmail.com**
+### Employment History
 
+#### Aug 2023 - Present
+**Data & Ops Group Leader at [Totango](https://www.totango.com/).**
+- Managing three R&D teams: data, integration, and frontend, while rebuilding the ops team.
 
+#### Nov 2021 - Aug 2023
+**Data Group Leader at [Totango](https://www.totango.com/).**
+- Managed two R&D teams: data team and integration team.
 
+#### Nov 2020 - Nov 2021
+**Data Team Leader at [Totango](https://www.totango.com/).**
+- Built a proactive R&D team, accelerating development pace, improving code quality, and reducing production incidents.
+- Worked with technologies including Big Data, Kafka, Elastic, MySQL, AWS, Java, Kotlin, and Reactive programming.
 
-### Employment History 
+#### Jan 2018 - Present
+**Head of R&D at [Gigaspaces](http://www.gigaspaces.com/).**
+- Part of the management team, responsible for team hiring and creating a culture of learning and continuous improvement.
+- Introduced and advocated new technologies, implemented continuous delivery systems, and facilitated weekly releases.
+- Implemented scrum with weekly sprints and early access every week.
 
-#### Jan 2018 -  present 
-**Head of R&D at ​[Gigaspaces](http://www.gigaspaces.com/).** 
+##### Key Technologies:
+- Management
+- Motivation
+- Docker
+- Java
+- Kotlin
+- Elm
+- Scala
+- Kubernetes
+- Nomad
+- Haskell
+- Nix
+- Spark
+- Kafka
 
-* Part of the management team.
-* Team hiring.
-* Create a culture of learning and continuous improvement.
-* Teach and advokate new technologies.
-* Push people out of their comfort zone, teach them to try new things.
-* Build with the teams continues delivery system, deliver weekly releases on regular bases.
-* Teach and implement ​[Planning and Estimation](https://www.amazon.com/exec/obidos/ASIN/0131479415/mountaingoats-20)​ by the R&D as a tool for the management team.
-* Implement scrum with weekly sprint (and early access every week)
+#### Jun 2016 - Jan 2018
+**Director of R&D at Gigaspaces [In Memory Computing](http://www.gigaspaces.com/imc) Business Unit.**
+- Part of the management team, creating a culture of learning and continuous improvement.
+- Introduced new technologies, implemented continuous delivery systems, and facilitated weekly releases.
 
-##### The Key technologies I am using: 
-* [Management](https://www.amazon.com/Peter-F.-Drucker/e/B000AP61TE)
-* [Motivation](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
-* [Docker](https://www.docker.com/)
-* [Java](https://https://www.oracle.com/java/)
-* [Kotlin](https://kotlinlang.org/)
-* [Elm](https://elm-lang.org/)
-* [Scala](https://www.scala-lang.org/)
-* [Kubernetes](https://kubernetes.io/)
-* [Nomad](https://www.nomadproject.io/)
-* [Haskell](https://www.haskell.org/)
-* [Nix](https://nixos.org/nix)
-* [Spark](https://spark.apache.org/)
-* [Kafka](https://kafka.apache.org/)
-
-
-#### Jun 2016 - Jan 2018 
-**Director of R&D at ​Gigaspaces [In Memory Computing](http://www.gigaspaces.com/imc) Business Unit​.** 
-
-* Part of the management team.
-* Create a culture of learning and continuous improvement.
-* Teach new technologies.
-* Push people out of their comfort zone, teach them to try new things.
-* Build with the teams continues delivery system, deliver every week a setup up to the release criteria.
-* Teach and implement ​[Planning and Estimation](https://www.amazon.com/exec/obidos/ASIN/0131479415/mountaingoats-20)​ by the R&D as a tool for the management team.
-
-##### The Key technologies I am using: 
-* [Management](https://www.amazon.com/Peter-F.-Drucker/e/B000AP61TE)
-* [Motivation](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
-* [Docker](https://www.docker.com/)
-* [Java](https://https://www.oracle.com/java/)
-* [Scala](https://www.scala-lang.org/)
-* [Kubernetes](https://kubernetes.io/)
-* [Haskell](https://www.haskell.org/)
-* [Ansible](https://www.ansible.com/)
+##### Key Technologies:
+- Management
+- Motivation
+- Docker
+- Java
+- Scala
+- Kubernetes
+- Haskell
+- Ansible
 
 #### July 2014 - Jan 2018
-**XAP Team Leader at Gigaspaces.** 
+**XAP Team Leader at Gigaspaces.**
+- Built a team of five developers and managed a set of thousands of automated system tests.
+- Developed a distributed system for running and reporting system tests.
+- Moved code base from SVN to Git and trained the team.
+- Handled support cases from over 100 customers.
+- Created [Asynchronous RMI](https://github.com/barakb/asyncrmi) as an open-source project.
 
-XAP is a distributed in-memory computing software platform written in Java.
+##### Key Technologies:
+- Netty
+- Polymer
+- Ansible
+- MongoDB
+- Jersey
+- Maven
 
-* Building a team of 5 developers.
-* Managing set of thousand automated system tests.
-* Writing with the team a distributed system to run and report system tests.
-* Move code base with more than 10 years history from svn Git and train the team to work with Git.
-* Implement with the team's new features.
-* Handling support cases from more than 100 customers.
-* Writing my own [Asynchronous RMI]​(https://github.com/barakb/asyncrmi), ([docs](http://barakb.github.io/asyncrmi/docs/index.html))​ open source, for this ​[reason​](http://barakb.github.io/asyncrmi/docs/why-did-i-start-this-project.html).
+#### Jan 2009 - July 2014
+**R&D Team Leader at Dalet.**
+- Built and led a team of seven employees, developing Dalet WebSpace.
+- Utilized TDD, pair programming, and agile methodology with weekly iterations.
+- Developed testing framework for system tests.
+- Deployed product on customer sites for three years.
 
-##### The Key technologies I used at that time: 
-* [Netty](http://netty.io/)
-* [Polymer](https://www.polymer-project.org/)
-* [Ansible](https://www.ansible.com/)
-* [MongoDb](https://www.mongodb.com/)
-* [Jersey](https://jersey.java.net/)
-* [Maven](https://maven.apache.org/)
+##### Key Technologies:
+- DWR
+- Apache Shiro
+- jQuery
+- Hadoop
+- Apache Solr
+- ActionScript
+- React
+- Bootstrap
+- Antlr
+- Netty
 
- 
-#### Jan 2009 - July 2014 
-**R&D team leader at Dalet.** 
+#### Spring 2010 - Spring 2012
+**Outside Lecturer at Ben Gurion University.**
+- Taught "Principles of Programming Languages" to second-year computer science students.
 
-* Build and lead a team of 7 employees.
-* Develop from zero ​ [Dalet WebSpace](http://www.dalet.com/modules/webspace)​ the web client (and its server) for the company's main product, the team was writing both client and server using Java and Javascript.
-* Using TDD, pair programming and agile methodology with iteration of one week.
-* For system tests we built testing framework on top of junit hadoop and selenium.
-* Currently there are more than 350 tests running on 4 machines after each commit.
-* The product is already deployed on customer sites for 3 years.
-* In this role was writing code for both server and client as well as running the team.
-* Using Solar as free text search engine for the app.
+#### 2008-2009
+**Developer at GigaSpaces.**
+- Member of the main development team working on distributed systems in Java.
 
-##### The Key technologies we used while writing Dalet WebSpace are: 
-* [DWR](http://directwebremoting.org/dwr/index.html)
-* [Apache Shiro](http://shiro.apache.org/)
-* [jQuery](https://jquery.com/)
-* [Hadoop](https://hadoop.apache.org/)
-* [Apache Solr](http://lucene.apache.org/solr/)
-* [ActionScript](http://www.adobe.com/devnet/actionscript.html)
-* [React](http://facebook.github.io/react/)
-* [Bootstrap](http://getbootstrap.com/)
-* [Antlr](http://www.antlr.org/)
-* [Netty](http://netty.io/)
-
-#### Spring 2010 - Spring 2012 
-**An outside lecturer at Ben Gurion University**
-
-In parallel to my working at Dalet,* Teaching the course ​ []Principles of Programming Languages](http://www.cs.bgu.ac.il/faculty/person/barakb.html)​ , a second year class for computer science students.
-
-#### 2008-2009 
-**Developer at GigaSpaces.** 
-
-* Members of the main development team that write distributed system in Java (idea based on Sun JINI).2000-2008 
-
-#### 2000-2008 
-**Developer at Dalet.** 
-
-* Writing code in C++, Java, SQL and Delphi.
-* Write translator from TRANSACT SQL to PL/SQL using yacc and lex in C++
-* Write the main distributed framework for the company and lots of servers.
-* Push TDD and train young employees.
+#### 2000-2008
+**Developer at Dalet.**
+- Wrote code in C++, Java, SQL, and Delphi.
+- Developed translators and distributed frameworks.
 
 #### 1997-1999
-**Teaching assistant at the Computer Science department at Ben Gurion University.**
+**Teaching Assistant at Ben Gurion University.**
+- Assisted in the Computer Science department while pursuing MSc.
 
-At that time I was doing my MSc at computer science there.
- 
-## Education 
+### Education
 
-**1992-1995** BSc at Math and Computer Science Ben Gurion university. 
-My [thesis](https://github.com/barakb/The-Compilation-Of-Functional-Unification-Based-Language/raw/master/TheCompilationOfFunctionalUnificationBasedLanguage.pdf)​ is on the fields of natural language generation and compiler optimizations.
-
-**1997-1999** MSc at Computer Science Ben Gurion university.
- 
-
+- **1992-1995**: BSc in Math and Computer Science from Ben Gurion University.
+- **1997-1999**: MSc in Computer Science from Ben Gurion University.
 
