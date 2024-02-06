@@ -1,3 +1,10 @@
+---
+layout: cv
+title: Barak Bar-Orion Resume
+description: 
+show_downloads: false
+---
+
 ### In a Few Words
 
 My passions are technology and people. I excel in:
